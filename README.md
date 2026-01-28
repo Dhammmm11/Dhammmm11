@@ -1,7 +1,24 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://count.getloli.com/@:Dhammmm11?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
 # Hi there! I'm Foyi 👋
 ### 🚀 About Me<br>- 🎓 I'm a student currently exploring the world of web development and automation.<br>- 💻 My main focus is building modern web applications with **Next.js**.<br>- 🎧 Fun fact: Most of my code is written while listening to music.<br><br>
 ### 🛠 Tech Stack<br>- **Frontend:** HTML, CSS, JavaScript, Next.js<br>- **Backend & Database:** Python, Supabase, Lua<br>- **Currently Learning:** Leveling up my fullstack game!<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marr_dha0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@syzxxx12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:foyihub@gmail.com) 
