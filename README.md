@@ -8,6 +8,8 @@
 ### 🚀 About Me<br>- 🎓 I'm a student currently exploring the world of web development and automation.<br>- 💻 My main focus is building modern web applications with **Next.js**.<br>- 🎧 Fun fact: Most of my code is written while listening to music.<br><br>
 ### 🛠 Tech Stack<br>- **Frontend:** HTML, CSS, JavaScript, Next.js<br>- **Backend & Database:** Python, Supabase, Lua<br>- **Currently Learning:** Leveling up my fullstack game!<br><br>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/pacman-contribution-graph.svg">
