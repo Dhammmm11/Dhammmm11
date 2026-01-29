@@ -18,7 +18,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dhammmm11/Dhammmm11/output-snake/snake.svg" alt="Snake animation" />
 
 ###
 
